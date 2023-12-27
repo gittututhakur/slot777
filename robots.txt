@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://slot777-jitu.de-rse.org/sitemap.xml
